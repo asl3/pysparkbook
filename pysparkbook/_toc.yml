@@ -8,3 +8,5 @@ chapters:
 - file: 03-installation
 - file: 04-pysparkbasics
 - file: 05-dataloading
+- file: 06-dataprep
+- file: 07-sparkconnect
