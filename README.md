@@ -1,2 +1,3 @@
 # PySpark Book
-This eBook is a guide to PySpark.
+See the PySpark eBook here:
+https://asl3.github.io/pysparkbook/

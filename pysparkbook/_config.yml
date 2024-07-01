@@ -3,7 +3,7 @@
 
 title: PySpark Book
 author: Amanda Liu
-logo: logo.png
+logo: pysparklogo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
