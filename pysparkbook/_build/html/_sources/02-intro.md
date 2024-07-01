@@ -4,7 +4,11 @@
 
 ## What is Spark?
 
-
+Apache Spark is a framework for large-scale data processing on 
+single-node machines or clusters. Spark provides APIs in Scala, Java, Python, and R, as well as
+tools like Spark SQL for SQL and DataFrames, pandas API on Spark for pandas workloads, MLlib for machine learning, 
+GraphX for graph processing, and Structured Streaming for stream processing.
+The Spark codebase is open-source and can be viewed [here](https://github.com/apache/spark).
 
 ## What is PySpark?
 
